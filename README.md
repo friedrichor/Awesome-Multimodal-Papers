@@ -19,6 +19,8 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413) | arXiv | 2024-04-04 | [![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT4-video) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vision-cair.github.io/MiniGPT4-video/) |
+| [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384) | arXiv | 2024-04-04 | [![Star](https://img.shields.io/github/stars/ziplab/LongVLM.svg?style=social&label=Star)](https://github.com/ziplab/LongVLM) | - |
 | [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611) | arXiv | 2024-03-14 | - | - |
 | [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072) | arXiv | 2024-03-14 | - | - |
 | [RegionGPT: Towards Region Understanding Vision Language Model](https://arxiv.org/abs/2403.02330) | CVPR 2024 | 2024-03-04 | - | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://guoqiushan.github.io/regiongpt.github.io/) |
