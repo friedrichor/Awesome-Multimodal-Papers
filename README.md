@@ -10,6 +10,7 @@ A curated list of awesome Multimodal studies.
     - [Multimodal Dialogue](#multimodal-dialogue)
     - [Multimodal Learning](#multimodal-learning)
     - [Text/Image-to-Image Generation](#textimage-to-image-generation)
+    - [Multimodal Dataset](#multimodal-dataset)
     - [Multimodal Summary](#multimodal-summary)
 
 ## Multimodal Papers
@@ -139,6 +140,23 @@ A curated list of awesome Multimodal studies.
 | [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/abs/2105.13290) | NeurIPS 2021 | 2021-05-26 | [![Star](https://img.shields.io/github/stars/THUDM/CogView.svg?style=social&label=Star)](https://github.com/THUDM/CogView) | - |
 | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) (DALL-E 1) | ICML 2021 | 2021-02-24 | [![Star](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social&label=Star)](https://github.com/openai/DALL-E) | [![Project Page](https://img.shields.io/badge/OpenAI-DALL·E-blue.svg)](https://openai.com/research/dall-e) |
 | [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) (VQ-GAN) | CVPR 2021 | 2020-12-17 | [![Star](https://img.shields.io/github/stars/CompVis/taming-transformers.svg?style=social&label=Star)](https://github.com/CompVis/taming-transformers) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://compvis.github.io/taming-transformers/) |
+
+### Multimodal Dataset
+
+|  Title  |   Venue  |   Date   |Annotation|  Source  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [STICKERCONV: Generating Multimodal Empathetic Responses from Scratch](https://arxiv.org/abs/2402.01679) | arXiv | 2024-01-20 | Multimodal Empathetic Dialogue | [![Star](https://img.shields.io/github/stars/ZhangYiqun018/StickerConv.svg?style=social&label=Star)](https://github.com/ZhangYiqun018/StickerConv)<br>[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://neu-datamining.github.io/StickerConv/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/NEUDM/StickerConv) |
+| [SVIT: Scaling up Visual Instruction Tuning](https://arxiv.org/abs/2307.04087) | arXiv | 2023-07-09 | Instruction Tuning | [![Star](https://img.shields.io/github/stars/BAAI-DCAI/Visual-Instruction-Tuning.svg?style=social&label=Star)](https://github.com/BAAI-DCAI/Visual-Instruction-Tuning)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/BAAI/SVIT) |
+| [M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning](https://arxiv.org/abs/2306.04387) | arXiv | 2023-06-07 | Instruction Tuning | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://m3-it.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/MMInstruction/M3IT) |
+| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (LLaVA) | NeurIPS 2023 | 2023-04-17 | Instruction Tuning | [![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star)](https://github.com/haotian-liu/LLaVA)<br>[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://llava-vl.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K) |
+| [Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with Text](https://arxiv.org/abs/2304.06939) | NeurIPS D&B 2023 | 2023-04-14 | Interleaved Image-Text | [![Star](https://img.shields.io/github/stars/allenai/mmc4.svg?style=social&label=Star)](https://github.com/allenai/mmc4) |
+| [TikTalk: A Multi-Modal Dialogue Dataset for Real-World Chitchat](https://arxiv.org/abs/2301.05880) | ACM MM 2023 | 2023-01-14 | Multimodal Dialogue | [![Star](https://img.shields.io/github/stars/RUC-AIMind/TikTalk.svg?style=social&label=Star)](https://github.com/RUC-AIMind/TikTalk) |
+| [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://aclanthology.org/2023.acl-long.405/) | ACL 2023 | 2022-11-10 | Multimodal Dialogue | [![Star](https://img.shields.io/github/stars/victorsungo/MMDialog.svg?style=social&label=Star)](https://github.com/victorsungo/MMDialog) |
+| [LAION-5B: An open large-scale dataset for training next generation image-text models](https://arxiv.org/abs/2210.08402) | NeurIPS 2022 | 2022-10-16 | Image-Text Pairs | [![Project Page](https://img.shields.io/badge/LAION.AI-LAION5B-blue.svg)](https://laion.ai/blog/laion-5b/) |
+| [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://arxiv.org/abs/2111.02114) | NeurIPS Workshop 2021 | 2021-11-03 | Image-Text Pairs | [![Project Page](https://img.shields.io/badge/LAION.AI-LAION400M-blue.svg)](https://laion.ai/blog/laion-400-open-dataset/) |
+| [MMConv: An Environment for Multimodal Conversational Search across Multiple Domains](https://dl.acm.org/doi/10.1145/3404835.3462970) | ACM SIGIR 2021 | 2021-07 | Multimodal Dialogue | [![Star](https://img.shields.io/github/stars/liziliao/MMConv.svg?style=social&label=Star)](https://github.com/liziliao/MMConv) |
+| [PhotoChat: A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling](https://aclanthology.org/2021.acl-long.479/) | ACL 2021 | 2021-07-06 | Open-domain Multimodal Dialogue | [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/multimodalchat/) |
+| [Image-Chat: Engaging Grounded Conversations](https://aclanthology.org/2020.acl-main.219/) | ACL 2020 | 2018-11-02 | Multimodal Dialogue | [![Project Page](https://img.shields.io/badge/ImageChat-blue.svg)](https://parl.ai/projects/image_chat/) |
 
 
 ### Multimodal Summary
