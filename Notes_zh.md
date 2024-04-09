@@ -1,4 +1,8 @@
-<p style="text-align: center; font-weight: bold; font-size: 24px;">Personal Paper Notes<p>
+<div align="center">
+<h2>Personal Paper Notes</h2>
+</div>
+
+---
 
 > **CSDN:** https://blog.csdn.net/Friedrichor (基本弃用)  
 > **知乎:** https://www.zhihu.com/people/friedrichor
