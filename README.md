@@ -20,6 +20,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624) (AesExpert, AesMMIT Dataset) | arXiv | 2024-04-15 | [![Star](https://img.shields.io/github/stars/yipoh/AesExpert.svg?style=social&label=Star)](https://github.com/yipoh/AesExpert) | - |
 | [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973) (Ferret-v2) | arXiv | 2024-04-11 | - | - |
 | [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) (MiniCPM series) | arXiv | 2024-04-09 | [![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg?style=social&label=Star)](https://github.com/OpenBMB/MiniCPM)<br>[![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg?style=social&label=Star)](https://github.com/OpenBMB/MiniCPM-V) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://openbmb.vercel.app/?category=Chinese+Blog) |
 | [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (Ferret-UI) | arXiv | 2024-04-08 | - | - |
@@ -139,6 +140,9 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing](https://arxiv.org/abs/2404.09990) | arXiv | 2024-04-15 | [![Star](https://img.shields.io/github/stars/UCSC-VLAA/HQ-Edit.svg?style=social&label=Star)](https://github.com/UCSC-VLAA/HQ-Edit) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://thefllood.github.io/HQEdit_web/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit)<br>[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LAOS-Y/HQEdit) |
+| [UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark](https://arxiv.org/abs/2404.09619) (UNIAA-LLaVA, UNIAA-Bench) | arXiv | 2024-04-15 | - | - |
+| [PMG: Personalized Multimodal Generation with Large Language Models](https://arxiv.org/abs/2404.08677) | WWW 2024 | 2024-04-07 | - | - |
 | [Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models](https://arxiv.org/abs/2404.04243) | arXiv | 2024-04-05 | [![Star](https://img.shields.io/github/stars/agwmon/MuDI.svg?style=social&label=Star)](https://github.com/agwmon/MuDI) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://mudi-t2i.github.io/) |
 | [Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models](https://arxiv.org/abs/2404.03913) | CVPR 2024 | 2024-04-05 | - | - |
 | [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) (VAR) | arXiv | 2024-04-03 | [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://var.vision/) |
@@ -180,6 +184,8 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |Annotation|  Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing](https://arxiv.org/abs/2404.09990) | arXiv | 2024-04-15 | Instruction Image Editing | [![Star](https://img.shields.io/github/stars/UCSC-VLAA/HQ-Edit.svg?style=social&label=Star)](https://github.com/UCSC-VLAA/HQ-Edit)<br>[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://thefllood.github.io/HQEdit_web/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit)<br>[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LAOS-Y/HQEdit) |
+| [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624) (AesExpert, AesMMIT Dataset) | arXiv | 2024-04-15 | Aesthetic Multi-Modality Instruction Tuning | [![Star](https://img.shields.io/github/stars/yipoh/AesExpert.svg?style=social&label=Star)](https://github.com/yipoh/AesExpert) |
 | [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://arxiv.org/abs/2402.19479) | CVPR 2024 | 2024-02-29 | video-caption | [![Star](https://img.shields.io/github/stars/snap-research/Panda-70M.svg?style=social&label=Star)](https://github.com/snap-research/Panda-70M)<br>[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://snap-research.github.io/Panda-70M/) |
 | [ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model](https://arxiv.org/abs/2402.11684) | arXiv | 2024-02-18 | GPT4V-synthesized Data | [![Star](https://img.shields.io/github/stars/FreedomIntelligence/ALLaVA.svg?style=social&label=Star)](https://github.com/FreedomIntelligence/ALLaVA)<br>[![Demo Page](https://img.shields.io/badge/Demo-Page-purple.svg)](https://allava.freedomai.cn/#/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/FreedomIntelligence/ALLaVA-4V) |
 | [STICKERCONV: Generating Multimodal Empathetic Responses from Scratch](https://arxiv.org/abs/2402.01679) | arXiv | 2024-01-20 | Multimodal Empathetic Dialogue | [![Star](https://img.shields.io/github/stars/ZhangYiqun018/StickerConv.svg?style=social&label=Star)](https://github.com/ZhangYiqun018/StickerConv)<br>[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://neu-datamining.github.io/StickerConv/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/NEUDM/StickerConv) |
@@ -200,6 +206,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   | Latest Update |
 |:--------|:--------:|:--------:|:--------:|
+| [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016) | arXiv | 2024-04-13 | - |
 | [A Review of Multi-Modal Large Language and Vision Models](https://arxiv.org/abs/2404.01322) | arXiv | 2024-03-28 | - |
 | [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451) | arXiv | 2024-02-19 | - |
 | [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601) | arXiv | 2024-01-24 | 2024-02-20 |
