@@ -9,6 +9,7 @@ A curated list of awesome Multimodal studies.
     - [LMM Benchmark](#lmm-benchmark)
     - [Multimodal Dialogue](#multimodal-dialogue)
     - [Multimodal Learning](#multimodal-learning)
+    - [Image-to-Text Generation](#image-to-text-generation)
     - [Text/Image-to-Image Generation](#textimage-to-image-generation)
     - [Video Generation](#video-generation)
     - [Multimodal Dataset](#multimodal-dataset)
@@ -135,11 +136,17 @@ A curated list of awesome Multimodal studies.
 | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651) (ALBEF) | NeurIPS 2021 | 2021-07-16 | [![Star](https://img.shields.io/github/stars/salesforce/ALBEF.svg?style=social&label=Star)](https://github.com/salesforce/ALBEF) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://blog.salesforceairesearch.com/align-before-fuse/) |
 | [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) | ICLR 2022 | 2021-06-15 | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/beit) | - |
 
+### Image-to-Text Generation
+
+|  Title  |   Venue  |   Date   |   Code   |Supplement|
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?](https://arxiv.org/abs/2404.10763) (LaDiC) | NAACL 2024 | 2024-04-16 | [![Star](https://img.shields.io/github/stars/wangyuchi369/LaDiC.svg?style=social&label=Star)](https://github.com/wangyuchi369/LaDiC) | - |
 
 ### Text/Image-to-Image Generation
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Salient Object-Aware Background Generation using Text-Guided Diffusion Models](https://arxiv.org/abs/2404.10157) | CVPR 2024 Workshop | 2024-04-15 | [![Star](https://img.shields.io/github/stars/yahoo/photo-background-generation.svg?style=social&label=Star)](https://github.comyahoo/photo-background-generation/) | - |
 | [HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing](https://arxiv.org/abs/2404.09990) | arXiv | 2024-04-15 | [![Star](https://img.shields.io/github/stars/UCSC-VLAA/HQ-Edit.svg?style=social&label=Star)](https://github.com/UCSC-VLAA/HQ-Edit) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://thefllood.github.io/HQEdit_web/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit)<br>[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/LAOS-Y/HQEdit) |
 | [UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark](https://arxiv.org/abs/2404.09619) (UNIAA-LLaVA, UNIAA-Bench) | arXiv | 2024-04-15 | - | - |
 | [PMG: Personalized Multimodal Generation with Large Language Models](https://arxiv.org/abs/2404.08677) | WWW 2024 | 2024-04-07 | - | - |
