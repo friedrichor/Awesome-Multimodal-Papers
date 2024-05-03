@@ -14,6 +14,7 @@ A curated list of awesome Multimodal studies.
     - [Video Generation](#video-generation)
     - [Multimodal Dataset](#multimodal-dataset)
     - [Multimodal Summary](#multimodal-summary)
+  - [Paper Notes](#paper-notes)
 
 ## Multimodal Papers
 
@@ -143,6 +144,9 @@ A curated list of awesome Multimodal studies.
 | [Uni-Perceiver: Pre-Training Unified Architecture for Generic Perception for Zero-Shot and Few-Shot Tasks](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html) | CVPR 2022 | 2021-12-02 | [![Star](https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver.svg?style=social&label=Star)](https://github.com/fundamentalvision/Uni-Perceiver) | - |
 | [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651) (ALBEF) | NeurIPS 2021 | 2021-07-16 | [![Star](https://img.shields.io/github/stars/salesforce/ALBEF.svg?style=social&label=Star)](https://github.com/salesforce/ALBEF) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://blog.salesforceairesearch.com/align-before-fuse/) |
 | [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) | ICLR 2022 | 2021-06-15 | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/beit) | - |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | ICML 2021 | 2021-02-26 | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) | [![Blog](https://img.shields.io/badge/OpenAI-Blog-orange.svg)](https://openai.com/index/clip) |
+| [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334) | ICML 2021 | 2021-02-05 | [![Star](https://img.shields.io/github/stars/dandelin/vilt.svg?style=social&label=Star)](https://github.com/dandelin/vilt) | - |
+
 
 ### Image-to-Text Generation
 
@@ -203,8 +207,6 @@ A curated list of awesome Multimodal studies.
 | [FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](https://arxiv.org/abs/2310.15169) (FreeNoise) (Ziwei Liu) | ICLR 2024 | 2023-10-23 | [![Star](https://img.shields.io/github/stars/AILab-CVC/FreeNoise.svg?style=social&label=Star)](https://github.com/AILab-CVC/FreeNoise) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](http://haonanqiu.com/projects/FreeNoise.html) |
 | [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) (LaVie) (NTU, Ziwei Liu) |  | 2023-09-26 | [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vchitect.github.io/LaVie-project/) |
 
-
-
 ### Multimodal Dataset
 
 |  Title  |   Venue  |   Date   |Annotation|  Source  |
@@ -246,3 +248,6 @@ A curated list of awesome Multimodal studies.
 | [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) | IEEE TPAMI 2023 | 2022-01-13<br> |2023-05-10|
 | [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/document/8269806) | IEEE PAMI 2019 | 2017-05-26 | 2017-08-01 |
 
+## Paper Notes
+
+[here](Notes_zh.md)
