@@ -22,6 +22,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [ImageInWords: Unlocking Hyper-Detailed Image Descriptions](https://arxiv.org/abs/2405.02793) (Google) | arXiv | 2024-05-05 | [![Star](https://img.shields.io/github/stars/google/imageinwords.svg?style=social&label=Star)](https://github.com/google/imageinwords) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://google.github.io/imageinwords/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/google/imageinwords) |
 | [MANTIS: Interleaved Multi-Image Instruction Tuning](https://arxiv.org/abs/2405.01483) | arXiv | 2024-05-02 | [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/Mantis.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/Mantis) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://tiger-ai-lab.github.io/Mantis/) |
 | [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://arxiv.org/abs/2404.15406) | CVPR 2024 Workshop | 2024-04-23 | - | [![Wechat](https://img.shields.io/badge/-WeChat@数源AI-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/DozQTfUQcl12GpQx8DLhnw) |
 | [VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing](https://is.gd/aGu0VV) | - | 2024-04-25 | [![Star](https://img.shields.io/github/stars/SkyworkAI/Vitron.svg?style=social&label=Star)](https://github.com/SkyworkAI/Vitron) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vitron-llm.github.io/)<br>[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/wiGMJzoQVu4)<br>[![Wechat](https://img.shields.io/badge/-WeChat@新智元-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/ef3GMQavH_K9iarSdwoxog) |
@@ -235,6 +236,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   | Latest Update |
 |:--------|:--------:|:--------:|:--------:|
+| [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>[![Star](https://img.shields.io/github/stars/ndrwmlnk/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models) | arXiv | 2025-05-06 | - |
 | [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016) | arXiv | 2024-04-13 | - |
 | [A Review of Multi-Modal Large Language and Vision Models](https://arxiv.org/abs/2404.01322) | arXiv | 2024-03-28 | - |
 | [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451) | arXiv | 2024-02-19 | - |
