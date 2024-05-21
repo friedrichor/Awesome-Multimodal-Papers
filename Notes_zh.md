@@ -4,9 +4,9 @@
 
 ---
 
- 
-> **知乎:** https://www.zhihu.com/people/friedrichor (continuously update)  
-> **CSDN:** https://blog.csdn.net/Friedrichor (out of use)  
+> **Academic Page:** You can see my current scholarship at [my academic page](https://friedrichor.github.io/).  
+> **Zhihu:** [https://www.zhihu.com/people/friedrichor](https://www.zhihu.com/people/friedrichor) _(continuously update)_  
+> **CSDN:** [https://blog.csdn.net/Friedrichor](https://blog.csdn.net/Friedrichor) _(350,000 visits) (out of use)_  
 
 - [Multimodal](#multimodal)
   - [Large Multimodal Models](#large-multimodal-models)
