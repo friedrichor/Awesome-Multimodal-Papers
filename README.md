@@ -22,6 +22,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [OLIVE: Object Level In-Context Visual Embeddings](https://arxiv.org/abs/2406.00872) | ACL 2024 | 2024-06-02 | [![Star](https://img.shields.io/github/stars/tossowski/OLIVE.svg?style=social&label=Star)](https://github.com/tossowski/OLIVE) | - |
 | [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) (by NVIDIA) | arXiv | 2024-05-29 | - | [![Wechat](https://img.shields.io/badge/-WeChat@数源AI-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/yTkY7hsdVvnlizzDS85d8w) |
 | [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](https://arxiv.org/abs/2405.15738) | arXiv | 2024-05-24 | [![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star)](https://github.com/alibaba/conv-llava) | - |
 | [Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models](https://arxiv.org/abs/2405.15684) | arXiv | 2024-05-24 | - | - |
