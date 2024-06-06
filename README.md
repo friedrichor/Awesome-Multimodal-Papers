@@ -22,6 +22,9 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Wings: Learning Multimodal LLMs without Text-only Forgetting](https://arxiv.org/abs/2406.03496) | arXiv | 2024-06-05 | - | - |
+| [Enhancing Multimodal Large Language Models with Multi-instance Visual Prompt Generator for Visual Representation Enrichment](https://arxiv.org/abs/2406.02987) (MIVPG) | arXiv | 2024-06-05 | - | - |
+| [PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM](https://arxiv.org/abs/2406.02884) | arXiv | 2024-06-05 | [![Star](https://img.shields.io/github/stars/posterllava/PosterLLaVA.svg?style=social&label=Star)](https://github.com/posterllava/PosterLLaVA) | - |
 | [OLIVE: Object Level In-Context Visual Embeddings](https://arxiv.org/abs/2406.00872) | ACL 2024 | 2024-06-02 | [![Star](https://img.shields.io/github/stars/tossowski/OLIVE.svg?style=social&label=Star)](https://github.com/tossowski/OLIVE) | - |
 | [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) (by NVIDIA) | arXiv | 2024-05-29 | - | [![Wechat](https://img.shields.io/badge/-WeChat@数源AI-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/yTkY7hsdVvnlizzDS85d8w) |
 | [ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models](https://arxiv.org/abs/2405.15738) | arXiv | 2024-05-24 | [![Star](https://img.shields.io/github/stars/alibaba/conv-llava.svg?style=social&label=Star)](https://github.com/alibaba/conv-llava) | - |
