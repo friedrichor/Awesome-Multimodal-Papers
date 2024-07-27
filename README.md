@@ -227,7 +227,6 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-
 | [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358) (Mira) | arXiv | 2024-07-08 | [![Star](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Star)](https://github.com/mira-space/MiraData) | - |
 | [VIMI: Grounding Video Generation through Multi-modal Instruction](https://arxiv.org/abs/2407.06304) | arXiv | 2024-07-08 | [![Star](https://img.shields.io/github/stars/snap-research/VIMI.svg?style=social&label=Star)](https://github.com/snap-research/VIMI) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://snap-research.github.io/VIMI/) |
 | [OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371) | arXiv | 2024-07-02 | - | - |
