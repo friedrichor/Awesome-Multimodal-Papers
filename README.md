@@ -7,6 +7,7 @@ A curated list of awesome Multimodal studies.
   - [Multimodal Papers](#multimodal-papers)
     - [Large Multimodal Model](#large-multimodal-model)
     - [LMM Benchmark](#lmm-benchmark)
+    - [Video LMM Benchmark](#video-lmm-benchmark)
     - [Multimodal Dialogue](#multimodal-dialogue)
     - [Multimodal Learning](#multimodal-learning)
     - [Image-to-Text Generation](#image-to-text-generation)
