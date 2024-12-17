@@ -24,6 +24,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ✨ [Apollo: An Exploration of Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2412.10360) (Exploration) (Meta) |  | 2024-12-13 | [![Star](https://img.shields.io/github/stars/Apollo-LMMs/Apollo.svg?style=social&label=Star)](https://github.com/Apollo-LMMs/Apollo) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://apollo-lmms.github.io/) |
 | [CompCap: Improving Multimodal Large Language Models with Composite Captions](https://arxiv.org/abs/2412.05243) (Meta) | arXiv | 2024-12-09 | - | - |
 | ✨ [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271) (InternVL 2.5) | arXiv | 2024-12-06 | [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/) |
 | [xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs](https://arxiv.org/abs/2410.16267) | arXiv | 2024-10-21 | - | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html) |
