@@ -6,7 +6,9 @@ A curated list of awesome Multimodal studies.
 - [Awesome-Multimodal-Papers](#awesome-multimodal-papers)
   - [Multimodal Papers](#multimodal-papers)
     - [Visual Understanding](#visual-understanding)
+    - [Omni Understanding](#omni-understanding)
     - [Unified Understanding and Generation](#unified-understanding-and-generation)
+    - [Multimodal Embedding/Retrieval](#multimodal-embeddingretrieval)
     - [Image Understanding Benchmark](#image-understanding-benchmark)
     - [Video Understanding Benchmark](#video-understanding-benchmark)
     - [Audio](#audio)
@@ -70,6 +72,7 @@ A curated list of awesome Multimodal studies.
 | [Koala: Key frame-conditioned long video-LLM](https://arxiv.org/abs/2404.04346) | CVPR 2024 | 2024-04-05 | [![Star](https://img.shields.io/github/stars/rxtan2/Koala-video-llm.svg?style=social&label=Star)](https://github.com/rxtan2/Koala-video-llm) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://cs-people.bu.edu/rxtan/projects/Koala/) |
 | [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413) | arXiv | 2024-04-04 | [![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT4-video) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vision-cair.github.io/MiniGPT4-video/) |
 | [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384) | arXiv | 2024-04-04 | [![Star](https://img.shields.io/github/stars/ziplab/LongVLM.svg?style=social&label=Star)](https://github.com/ziplab/LongVLM) | - |
+| [InternVideo2: Scaling Foundation Models for Multimodal Video Understanding](https://arxiv.org/abs/2403.15377) | ECCV 2024 | 2024-03-22 | [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVideo.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2) | - |
 | [VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517) (key frame) | arXiv | 2024-03-15 | - | - |
 | ✨ [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://arxiv.org/abs/2403.09611) (Apple) | arXiv | 2024-03-14 | - | - |
 | [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072) | arXiv | 2024-03-14 | - | - |
@@ -116,10 +119,23 @@ A curated list of awesome Multimodal studies.
 | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) | ICML 2023 | 2023-01-30 | [![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) | - |
 | [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) | NeurIPS 2022 | 2022-04-29 | [![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star)](https://github.com/mlfoundations/open_flamingo) | -|
 
+### Omni Understanding
+
+|  Title  |   Venue  |   Date   |   Code   |Supplement|
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [Baichuan-Omni Technical Report](https://arxiv.org/abs/2410.08565) | arXiv | 2024-10-11 | [![Star](https://img.shields.io/github/stars/westlake-baichuan-mllm/bc-omni.svg?style=social&label=Star)](https://github.com/westlake-baichuan-mllm/bc-omni) | - |
+| [OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces](https://arxiv.org/abs/2407.11895) | arXiv | 2024-07-16 | [![Star](https://img.shields.io/github/stars/zehanwang01/OmniBind.svg?style=social&label=Star)](https://github.com/zehanwang01/OmniBind) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://omnibind.github.io/) |
+| [Explore the Limits of Omni-modal Pretraining at Scale](https://arxiv.org/abs/2406.09412) (MiCo) | arXiv | 2024-06-13 | [![Star](https://img.shields.io/github/stars/invictus717/MiCo.svg?style=social&label=Star)](https://github.com/invictus717/MiCo) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://invictus717.github.io/MiCo/) |
+| [ViT-Lens: Towards Omni-modal Representations](https://openaccess.thecvf.com/content/CVPR2024/html/Lei_ViT-Lens_Towards_Omni-modal_Representations_CVPR_2024_paper.html) (TencentARC) | CVPR 2024 | 2023-08-20 | [![Star](https://img.shields.io/github/stars/TencentARC/ViT-Lens.svg?style=social&label=Star)](https://github.com/TencentARC/ViT-Lens) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ailab-cvc.github.io/seed/vitlens/) |
+| [VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e6b2b48b5ed90d07c305932729927781-Abstract-Conference.html) | NeurIPS 2023 | 2023-05-29 | [![Star](https://img.shields.io/github/stars/TXH-mercury/VAST.svg?style=social&label=Star)](https://github.com/TXH-mercury/VAST) | - |
+| [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) | CVPR 2023 | 2023-05-09 | [![Star](https://img.shields.io/github/stars/facebookresearch/ImageBind.svg?style=social&label=Star)](https://github.com/facebookresearch/ImageBind) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://imagebind.metademolab.com/) |
+| [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://arxiv.org/abs/2304.08345) | TPAMI 2024 | 2023-04-17 | [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://casia-iva-group.github.io/projects/VALOR/download.html) |
+
 ### Unified Understanding and Generation
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation](https://arxiv.org/abs/2412.15188) (Meta) | arXiv | 2024-12-19 | - | - |
 | [SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding](https://arxiv.org/abs/2412.09604) | arXiv | 2024-12-12 | coming soon | - |
 | [Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation](https://arxiv.org/abs/2412.04432) (TencentARC) | arXiv | 2024-12-05 | [![Star](https://img.shields.io/github/stars/TencentARC/Divot.svg?style=social&label=Star)](https://github.com/TencentARC/Divot) | - |
 | [Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332) (Bytedance) | arXiv | 2024-12-05 | [![Star](https://img.shields.io/github/stars/FoundationVision/Liquid.svg?style=social&label=Star)](https://github.com/FoundationVision/Liquid) | arXiv |
@@ -149,6 +165,10 @@ A curated list of awesome Multimodal studies.
 | [Any-to-Any Generation via Composable Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html) (CoDi-1) | NeurIPS 2023 | 2023-05-19 | [![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://codi-gen.github.io/) |
 | [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823) (FROMAGe) | ICML 2023 | 2023-01-31 | [![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jykoh.com/fromage) |
 
+### Multimodal Embedding/Retrieval
+
+
+
 ### Image Understanding Benchmark
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
@@ -176,7 +196,7 @@ A curated list of awesome Multimodal studies.
 | [MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding](https://arxiv.org/abs/2406.04264) | arXiv | 2024-06-06 | [![Star](https://img.shields.io/github/stars/JUNJIE99/MLVU.svg?style=social&label=Star)](https://github.com/JUNJIE99/MLVU) | [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/MLVU/MLVU_Test)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/MLVU/MVLU) |
 | [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://arxiv.org/abs/2405.21075) (Video-MME) | arXiv | 2024-05-31 | [![Star](https://img.shields.io/github/stars/BradyFU/Video-MME.svg?style=social&label=Star)](https://github.com/BradyFU/Video-MME) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://video-mme.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/Video-MME) |
 | [TempCompass: Do Video LLMs Really Understand Videos?](https://arxiv.org/abs/2403.00476) | arXiv | 2024-03-01 | [![Star](https://img.shields.io/github/stars/llyx97/TempCompass.svg?style=social&label=Star)](https://github.com/llyx97/TempCompass) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://llyx97.github.io/tempcompass/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/TempCompass) |
-| [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005) (MVBench, VideoChat2) | CVPR 2024 Highlight | 2023-11-28 | [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything) | [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenGVLab/MVBench) |
+| [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005) (MVBench, VideoChat2) | CVPR 2024 Highlight | 2023-11-28 | [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2) | [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenGVLab/MVBench) |
 | [EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://arxiv.org/abs/2308.09126) | NeurIPS 2023 | 2023-08-17 | [![Star](https://img.shields.io/github/stars/egoschema/EgoSchema.svg?style=social&label=Star)](https://github.com/egoschema/EgoSchema) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://egoschema.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/egoschema) |
 | [Perception Test: A Diagnostic Benchmark for Multimodal Video Models](https://arxiv.org/abs/2305.13786) (Perception Test, by Google DeepMind) | NeurIPS 2023 | 2023-05-23 | [![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star)](https://github.com/google-deepmind/perception_test) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ptchallenge-workshop.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/PerceptionTest) |
 
