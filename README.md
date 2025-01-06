@@ -123,6 +123,8 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Survey] [From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality](https://arxiv.org/abs/2412.11694) (HIT, Peng Cheng Lab) | arXiv | 2024-12-16 | - | - |
+| [OMCAT: Omni Context Aware Transformer](https://arxiv.org/abs/2410.12109) (OCTAV, OMCAT) (NVIDIA) | arXiv | 2024-10-15 | - | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://om-cat.github.io/) |
 | [Baichuan-Omni Technical Report](https://arxiv.org/abs/2410.08565) | arXiv | 2024-10-11 | [![Star](https://img.shields.io/github/stars/westlake-baichuan-mllm/bc-omni.svg?style=social&label=Star)](https://github.com/westlake-baichuan-mllm/bc-omni) | - |
 | [OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces](https://arxiv.org/abs/2407.11895) | arXiv | 2024-07-16 | [![Star](https://img.shields.io/github/stars/zehanwang01/OmniBind.svg?style=social&label=Star)](https://github.com/zehanwang01/OmniBind) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://omnibind.github.io/) |
 | [Explore the Limits of Omni-modal Pretraining at Scale](https://arxiv.org/abs/2406.09412) (MiCo) | arXiv | 2024-06-13 | [![Star](https://img.shields.io/github/stars/invictus717/MiCo.svg?style=social&label=Star)](https://github.com/invictus717/MiCo) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://invictus717.github.io/MiCo/) |
@@ -343,6 +345,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   | Latest Update |
 |:--------|:--------:|:--------:|:--------:|
+| [From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality](https://arxiv.org/abs/2412.11694) (HIT, Peng Cheng Lab) | arXiv | 2024-12-16 | - |
 | [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://arxiv.org/abs/2409.18938) (TikTok) | arXiv | 2024-09-27 | - |
 | [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>[![Star](https://img.shields.io/github/stars/ndrwmlnk/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models) | arXiv | 2024-05-06 | - |
 | [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016) | arXiv | 2024-04-13 | - |
