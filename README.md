@@ -18,9 +18,9 @@ A curated list of awesome Multimodal studies.
     - [Video Generation](#video-generation)
     - [Multimodal Dataset](#multimodal-dataset)
     - [Multimodal Summary](#multimodal-summary)
-  - [Paper Notes](#paper-notes)
 
 ## Multimodal Papers
+
 
 ### Visual Understanding
 
@@ -143,6 +143,7 @@ A curated list of awesome Multimodal studies.
 | [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) | CVPR 2023 | 2023-05-09 | [![Star](https://img.shields.io/github/stars/facebookresearch/ImageBind.svg?style=social&label=Star)](https://github.com/facebookresearch/ImageBind) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://imagebind.metademolab.com/) |
 | [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://arxiv.org/abs/2304.08345) | TPAMI 2024 | 2023-04-17 | [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://casia-iva-group.github.io/projects/VALOR/download.html) |
 
+
 ### Unified Understanding and Generation
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
@@ -179,8 +180,17 @@ A curated list of awesome Multimodal studies.
 | [Any-to-Any Generation via Composable Diffusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html) (CoDi-1) | NeurIPS 2023 | 2023-05-19 | [![Star](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://codi-gen.github.io/) |
 | [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823) (FROMAGe) | ICML 2023 | 2023-01-31 | [![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jykoh.com/fromage) |
 
+
 ### Multimodal Embedding/Retrieval
 
+|  Title  |   Venue  |   Date   |   Code   |Supplement|
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855) (Tongyi Lab) | arXiv | 2024-12-22 | - | [![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Collections-blue)](https://huggingface.co/collections/Alibaba-NLP/gme-models-67667e092da3491f630964d6) |
+| [OMCAT: Omni Context Aware Transformer](https://arxiv.org/abs/2410.12109) | arXiv | 2024-10-15 | - | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://om-cat.github.io/) |
+| [E5-V: Universal Embeddings with Multimodal Large Language Models](https://arxiv.org/abs/2407.12580) | arXiv | 2024-07-17 | [![Star](https://img.shields.io/github/stars/kongds/E5-V.svg?style=social&label=Star)](https://github.com/kongds/E5-V) | - |
+| [OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces](https://arxiv.org/abs/2407.11895) | arXiv | 2024-07-16 | [![Star](https://img.shields.io/github/stars/zehanwang01/OmniBind.svg?style=social&label=Star)](https://github.com/zehanwang01/OmniBind) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://omnibind.github.io/) |
+| [VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://arxiv.org/abs/2305.18500) | NeurIPS 2023 | 2023-05-29 | [![Star](https://img.shields.io/github/stars/TXH-mercury/VAST.svg?style=social&label=Star)](https://github.com/TXH-mercury/VAST) | - |
+| [VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset](https://arxiv.org/abs/2304.08345) | TPAMI2024 | 2023-04-17 | [![Star](https://img.shields.io/github/stars/TXH-mercury/VALOR.svg?style=social&label=Star)](https://github.com/TXH-mercury/VALOR) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://casia-iva-group.github.io/projects/VALOR/download.html) |
 
 
 ### Image Understanding Benchmark
@@ -195,6 +205,7 @@ A curated list of awesome Multimodal studies.
 | [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/abs/2309.14525) (LLaVA-RLHF, MMHal-Bench (hallucination)) | arXiv | 2023-09-25 | [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://llava-rlhf.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Shengcao1006/MMHal-Bench) |
 | [Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations](https://arxiv.org/abs/2308.16349) (AffectVisDial) | ECCV 2024 | 2023-08-30 | [![Star](https://img.shields.io/github/stars/Vision-CAIR/affectiveVisDial.svg?style=social&label=Star)](https://github.com/Vision-CAIR/affectiveVisDial) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://affective-visual-dialog.github.io/) |
 | [SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension](https://arxiv.org/abs/2307.16125) | CVPR 2024 | 2023-07-30 | [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-Bench.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-Bench) | - |
+
 
 ### Video Understanding Benchmark
 
@@ -214,11 +225,13 @@ A curated list of awesome Multimodal studies.
 | [EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://arxiv.org/abs/2308.09126) | NeurIPS 2023 | 2023-08-17 | [![Star](https://img.shields.io/github/stars/egoschema/EgoSchema.svg?style=social&label=Star)](https://github.com/egoschema/EgoSchema) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://egoschema.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/egoschema) |
 | [Perception Test: A Diagnostic Benchmark for Multimodal Video Models](https://arxiv.org/abs/2305.13786) (Perception Test, by Google DeepMind) | NeurIPS 2023 | 2023-05-23 | [![Star](https://img.shields.io/github/stars/google-deepmind/perception_test.svg?style=social&label=Star)](https://github.com/google-deepmind/perception_test) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ptchallenge-workshop.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/lmms-lab/PerceptionTest) |
 
+
 ### Audio
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities](https://aclanthology.org/2023.findings-emnlp.1055/) | EMNLP 2023 (Findings) | 2023-05-18 | [![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)](https://github.com/0nutation/SpeechGPT) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://0nutation.github.io/SpeechGPT.github.io/) |
+
 
 ### Multimodal Dialogue
 
@@ -235,6 +248,7 @@ A curated list of awesome Multimodal studies.
 | [Multi-Modal Open-Domain Dialogue](https://aclanthology.org/2021.emnlp-main.398/) | EMNLP 2021 | 2020-10-02 | - | - |
 | [Open Domain Dialogue Generation with Latent Images](https://arxiv.org/abs/2004.01981) | AAAI 2021 | 2020-04-04 | - | - |
 | [Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog](https://arxiv.org/abs/2003.04679) | WWW 2020 | 2020-03-10 | [![Star](https://img.shields.io/github/stars/gsh199449/stickerchat.svg?style=social&label=Star)](https://github.com/gsh199449/stickerchat) | - |
+
 
 ### Multimodal Learning
 
@@ -255,6 +269,7 @@ A curated list of awesome Multimodal studies.
 | [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254) | ICLR 2022 | 2021-06-15 | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/beit) | - |
 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | ICML 2021 | 2021-02-26 | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) | [![Blog](https://img.shields.io/badge/OpenAI-Blog-orange.svg)](https://openai.com/index/clip) |
 | [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/abs/2102.03334) | ICML 2021 | 2021-02-05 | [![Star](https://img.shields.io/github/stars/dandelin/vilt.svg?style=social&label=Star)](https://github.com/dandelin/vilt) | - |
+
 
 ### Image Generation
 
@@ -303,6 +318,7 @@ A curated list of awesome Multimodal studies.
 | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) (DALL-E 1) | ICML 2021 | 2021-02-24 | [![Star](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social&label=Star)](https://github.com/openai/DALL-E) | [![Project Page](https://img.shields.io/badge/OpenAI-DALL·E-blue.svg)](https://openai.com/research/dall-e) |
 | [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) (VQ-GAN) | CVPR 2021 | 2020-12-17 | [![Star](https://img.shields.io/github/stars/CompVis/taming-transformers.svg?style=social&label=Star)](https://github.com/CompVis/taming-transformers) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://compvis.github.io/taming-transformers/) |
 
+
 ### Video Generation
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
@@ -323,6 +339,7 @@ A curated list of awesome Multimodal studies.
 | [SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction](https://arxiv.org/abs/2310.20700) (NTU, Ziwei Liu) | ICLR 2024 | 2023-10-31 | [![Star](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Star)](https://github.com/Vchitect/SEINE) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vchitect.github.io/SEINE-project/) |
 | [FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](https://arxiv.org/abs/2310.15169) (FreeNoise) (NTU, Ziwei Liu) | ICLR 2024 | 2023-10-23 | [![Star](https://img.shields.io/github/stars/AILab-CVC/FreeNoise.svg?style=social&label=Star)](https://github.com/AILab-CVC/FreeNoise) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](http://haonanqiu.com/projects/FreeNoise.html) |
 | [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) (LaVie) (NTU, Ziwei Liu) | arXiv | 2023-09-26 | [![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://vchitect.github.io/LaVie-project/) |
+
 
 ### Multimodal Dataset
 
@@ -353,6 +370,7 @@ A curated list of awesome Multimodal studies.
 | [PhotoChat: A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling](https://aclanthology.org/2021.acl-long.479/) | ACL 2021 | 2021-07-06 | Open-domain Multimodal Dialogue | [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/multimodalchat/) |
 | [Image-Chat: Engaging Grounded Conversations](https://aclanthology.org/2020.acl-main.219/) | ACL 2020 | 2018-11-02 | Multimodal Dialogue | [![Project Page](https://img.shields.io/badge/ImageChat-blue.svg)](https://parl.ai/projects/image_chat/) |
 
+
 ### Multimodal Summary
 
 |  Title  |   Venue  |   Date   | Latest Update |
@@ -374,6 +392,3 @@ A curated list of awesome Multimodal studies.
 | [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) | IEEE TPAMI 2023 | 2022-01-13<br> |2023-05-10|
 | [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/document/8269806) | IEEE PAMI 2019 | 2017-05-26 | 2017-08-01 |
 
-## Paper Notes
-
-[here](Notes_zh.md)
