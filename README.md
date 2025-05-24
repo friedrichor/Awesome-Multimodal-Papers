@@ -418,7 +418,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   | Latest Update |
 |:--------|:--------:|:--------:|:--------:|
-| [A Survey on Bridging VLMs and Synthetic Data](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1) | TechRxiv | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) |
+| [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE) | OpenReview | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) |
 | [From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality](https://arxiv.org/abs/2412.11694) (HIT, Peng Cheng Lab) | arXiv | 2024-12-16 | - |
 | [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://arxiv.org/abs/2409.18938) (TikTok) | arXiv | 2024-09-27 | - |
 | [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>[![Star](https://img.shields.io/github/stars/ndrwmlnk/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models) | arXiv | 2024-05-06 | - |
