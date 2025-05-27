@@ -4,10 +4,10 @@ A curated list of awesome Multimodal studies.
 
 
 - [Awesome-Multimodal-Papers](#awesome-multimodal-papers)
-  - [Multimodal Papers](#multimodal-papers)
     - [Visual Understanding](#visual-understanding)
     - [Omni Understanding](#omni-understanding)
     - [Unified Understanding and Generation](#unified-understanding-and-generation)
+    - [Diffusion MLLM](#diffusion-mllm)
     - [Multimodal Embedding/Retrieval](#multimodal-embeddingretrieval)
     - [Image Understanding Benchmark](#image-understanding-benchmark)
     - [Video Understanding Benchmark](#video-understanding-benchmark)
@@ -18,8 +18,6 @@ A curated list of awesome Multimodal studies.
     - [Video Generation](#video-generation)
     - [Multimodal Dataset](#multimodal-dataset)
     - [Multimodal Survey](#multimodal-survey)
-
-## Multimodal Papers
 
 
 ### Visual Understanding
@@ -190,10 +188,21 @@ A curated list of awesome Multimodal studies.
 | [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823) (FROMAGe) | ICML 2023 | 2023-01-31 | [![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star)](https://github.com/kohjingyu/fromage) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jykoh.com/fromage) |
 
 
+### Diffusion MLLM
+
+|  Title  |   Venue  |   Date   |   Code   |Supplement|
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) (NUS) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/yu-rp/Dimple.svg?style=social&label=Star)](https://github.com/yu-rp/Dimple) | - |
+| [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) (Gaoling) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-V.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-V) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ml-gsai.github.io/LLaDA-V-demo/) |
+| [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) (UCLA, Panasonic AI, Salesforce, Adobe) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://homepage.jackli.org/projects/lavida)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/jacklishufan/lavida-train) |
+| [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809) (ByteDance Seed) | arXiv | 2025-05-21 | [![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA.svg?style=social&label=Star)](https://github.com/Gen-Verse/MMaDA) | [![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Gen-Verse/MMaDA) |
+
+
 ### Multimodal Embedding/Retrieval
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval](https://arxiv.org/abs/2505.19650) (UNITE) | arXiv | 2025-05-26 | [![Star](https://img.shields.io/github/stars/friedrichor/UNITE.svg?style=social&label=Star)](https://github.com/friedrichor/UNITE) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://friedrichor.github.io/projects/UNITE/)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Collections-green)](https://huggingface.co/collections/friedrichor/unite-682da30c4540abccd3da3a6b) |
 | [Benchmark] [MIEB: Massive Image Embedding Benchmark](https://arxiv.org/abs/2504.10471) | arXiv | 2025-04-14 | [![Star](https://img.shields.io/github/stars/embeddings-benchmark/mteb.svg?style=social&label=Star)](https://github.com/embeddings-benchmark/mteb) | [![Demo](https://img.shields.io/badge/Leaderboard-orange)](https://huggingface.co/spaces/mteb/leaderboard) |
 | [Data, Model, Benchmark] [IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval](https://arxiv.org/abs/2504.00954) | arXiv | 2025-04-01 | [![Star](https://img.shields.io/github/stars/BwLiu01/IDMR.svg?style=social&label=Star)](https://github.com/BwLiu01/IDMR) | - |
 | [LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning](https://arxiv.org/abs/2503.04812) | arXiv | 2025-03-04 | [![Star](https://img.shields.io/github/stars/DeepLearnXMU/LLaVE.svg?style=social&label=Star)](https://github.com/DeepLearnXMU/LLaVE) | [![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Collections-green)](https://huggingface.co/collections/zhibinlan/llave-67ce601659719ca012fd46af) |
@@ -244,6 +253,7 @@ A curated list of awesome Multimodal studies.
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos](https://arxiv.org/abs/2505.20124) | ACL 2025 Main | 2025-05-26 | [![Star](https://img.shields.io/github/stars/friedrichor/TUNA.svg?style=social&label=Star)](https://github.com/friedrichor/TUNA) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://friedrichor.github.io/projects/TUNA/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/friedrichor/TUNA-Bench) |
 | [TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models](https://arxiv.org/abs/2410.23266) | arXiv | 2024-10-30 | [![Star](https://img.shields.io/github/stars/yale-nlp/TOMATO.svg?style=social&label=Star)](https://github.com/yale-nlp/TOMATO) | [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/yale-nlp/TOMATO) |
 | [AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark](https://arxiv.org/abs/2410.03051) (AuroraCap, VDC) | arXiv | 2024-10-24 | [![Star](https://img.shields.io/github/stars/rese1f/aurora.svg?style=social&label=Star)](https://github.com/rese1f/aurora) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://rese1f.github.io/aurora-web/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/wchai/Video-Detailed-Caption)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/wchai/AuroraCap-trainset) |
 | [TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models](https://arxiv.org/abs/2410.10818) | arXiv | 2024-10-14 | [![Star](https://img.shields.io/github/stars/mu-cai/TemporalBench.svg?style=social&label=Star)](https://github.com/mu-cai/TemporalBench) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://temporalbench.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/microsoft/TemporalBench) |
@@ -379,7 +389,7 @@ A curated list of awesome Multimodal studies.
 
 ### Multimodal Dataset
 
-|  Title  |   Venue  |   Date   |Annotation|  Source  |
+|  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [Benchmark & Dataset] [VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2504.15279) | arXiv | 2025-04-21 | Visual Reasoning Benchmark & Dataset | [![🌐 Homepage](https://img.shields.io/badge/🌐-Homepage-green)](https://visulogic-benchmark.github.io/VisuLogic)<br>[![🤗 Benchmark](https://img.shields.io/badge/🤗-Benchmark-blue)](https://huggingface.co/datasets/VisuLogic/VisuLogic)<br>[![🤗 Train Data](https://img.shields.io/badge/🤗-Train%20Data-blue)](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train)<br>[![💻 Train Code](https://img.shields.io/badge/💻-Train%20Code-lightgrey)](https://github.com/VisuLogic-Benchmark/VisuLogic-Train) |
 | [Dataset] [Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists](https://arxiv.org/abs/2502.06734) | arXiv | 2025-02-10 | [![Star](https://img.shields.io/github/stars/zibojia/SENORITA.svg?style=social&label=Star)](https://github.com/zibojia/SENORITA) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://senorita-2m-dataset.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/SENORITADATASET/Senorita)<br>[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PengWeixuanSZU/Senorita) |
@@ -416,23 +426,23 @@ A curated list of awesome Multimodal studies.
 
 ### Multimodal Survey
 
-|  Title  |   Venue  |   Date   | Latest Update |
-|:--------|:--------:|:--------:|:--------:|
-| [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE) | OpenReview | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) |
+|  Title  |   Venue  |   Date   |Supplement|Latest Update|
+|:--------|:--------:|:--------:|:--------:|:-----------:|
+| [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE) | OpenReview | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) | - |
 | [From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality](https://arxiv.org/abs/2412.11694) (HIT, Peng Cheng Lab) | arXiv | 2024-12-16 | - |
 | [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://arxiv.org/abs/2409.18938) (TikTok) | arXiv | 2024-09-27 | - |
 | [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)<br>[![Star](https://img.shields.io/github/stars/ndrwmlnk/Awesome-Video-Diffusion-Models.svg?style=social&label=Star)](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models) | arXiv | 2024-05-06 | - |
-| [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016) | arXiv | 2024-04-13 | - |
-| [A Review of Multi-Modal Large Language and Vision Models](https://arxiv.org/abs/2404.01322) | arXiv | 2024-03-28 | - |
-| [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451) | arXiv | 2024-02-19 | - |
-| [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601) | arXiv | 2024-01-24 | 2024-02-20 |
-| [Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2311.13165) | 	IEEE BigData 2023 | 2023-11-22 | - |
-| [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/abs/2309.10020) | CVPR 2023 | 2023-09-18 | - |
-| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | - | 2023 | - |
-| [Large Multimodal Models: Notes on CVPR 2023 Tutorial](https://arxiv.org/abs/2306.14895) | CVPR 2023 | 2023-06-26 | - |
-| [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549) | arXiv | 2023-06-23 | 2024-04-01 |
-| [Multimodal Deep Learning](https://arxiv.org/abs/2301.04856) | arXiv | 2023-01-12 | - |
-| [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796) | ACM Computing Surveys | 2022-09-02 | 2024-02-06 |
-| [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) | IEEE TPAMI 2023 | 2022-01-13<br> |2023-05-10|
-| [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/document/8269806) | IEEE PAMI 2019 | 2017-05-26 | 2017-08-01 |
+| [Theoretical research on generative diffusion models: an overview](https://arxiv.org/abs/2404.09016) | arXiv | 2024-04-13 | - | - |
+| [A Review of Multi-Modal Large Language and Vision Models](https://arxiv.org/abs/2404.01322) | arXiv | 2024-03-28 | - | - |
+| [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451) | arXiv | 2024-02-19 | - | - |
+| [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601) | arXiv | 2024-01-24 | - | 2024-02-20 |
+| [Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2311.13165) | 	IEEE BigData 2023 | 2023-11-22 | - | - |
+| [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/abs/2309.10020) | CVPR 2023 | 2023-09-18 | - | - |
+| [Understanding Deep Learning](https://udlbook.github.io/udlbook/) | - | 2023 | - | - |
+| [Large Multimodal Models: Notes on CVPR 2023 Tutorial](https://arxiv.org/abs/2306.14895) | CVPR 2023 | 2023-06-26 | - | - |
+| [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549) | arXiv | 2023-06-23 | - | 2024-04-01 |
+| [Multimodal Deep Learning](https://arxiv.org/abs/2301.04856) | arXiv | 2023-01-12 | - | - |
+| [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796) | ACM Computing Surveys | 2022-09-02 | - | 2024-02-06 |
+| [Multimodal Learning with Transformers: A Survey](https://arxiv.org/abs/2206.06488) | IEEE TPAMI 2023 | 2022-01-13 | - | 2023-05-10 |
+| [Multimodal Machine Learning: A Survey and Taxonomy](https://ieeexplore.ieee.org/document/8269806) | IEEE PAMI 2019 | 2017-05-26 | - | 2017-08-01 |
 
