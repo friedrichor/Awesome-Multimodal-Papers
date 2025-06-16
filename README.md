@@ -2,6 +2,22 @@
 
 A curated list of awesome Multimodal studies.
 
+**Contribution**
+
+If you have published a high-quality paper or come across one that you think is valuable, feel free to contribute! To submit a paper, please open an issue and include the following information in the specified format:
+
+```
+{
+    "title": paper title,
+    "url": paper URL,
+    "venue": the venue where the paper was published, such as ICML 2025, CVPR 2025 or arXiv,
+    "category": one or more relevant categories from our directory, or feel free to propose a new, more suitable category,
+    "code": [Optional] code URL,
+    "project_page": [Optional] project page URL,
+    "dataset": [Optional] HuggingFace Dataset URL,
+    "collections": [Optional] HuggingFace Collections URL
+}
+```
 
 - [Awesome-Multimodal-Papers](#awesome-multimodal-papers)
     - [Visual Understanding](#visual-understanding)
