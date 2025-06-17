@@ -212,6 +212,8 @@ If you have published a high-quality paper or come across one that you think is 
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/abs/2505.23606) | arXiv | 2025-05-29 | [![Star](https://img.shields.io/github/stars/M-E-AGI-Lab/Muddit.svg?style=social&label=Star)](https://github.com/M-E-AGI-Lab/Muddit) | - |
+| [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147) | arXiv | 2025-05-26 | - | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://fudoki-hku.github.io) |
 | [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) (NUS) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/yu-rp/Dimple.svg?style=social&label=Star)](https://github.com/yu-rp/Dimple) | - |
 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) (Gaoling) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-V.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-V) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ml-gsai.github.io/LLaDA-V-demo/) |
 | [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) (UCLA, Panasonic AI, Salesforce, Adobe) | arXiv | 2025-05-22 | [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://homepage.jackli.org/projects/lavida)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Dataset-blue)](https://huggingface.co/datasets/jacklishufan/lavida-train) |
@@ -448,6 +450,7 @@ If you have published a high-quality paper or come across one that you think is 
 
 |  Title  |   Venue  |   Date   |Supplement|Latest Update|
 |:--------|:--------:|:--------:|:--------:|:-----------:|
+| [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/abs/2506.13759) | arXiv | 2025-06-16 | [![Star](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey.svg?style=social&label=Star)](https://github.com/LiQiiiii/DLLM-Survey)  | - |
 | [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE) | OpenReview | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) | - |
 | [From Specific-MLLM to Omni-MLLM: A Survey about the MLLMs alligned with Multi-Modality](https://arxiv.org/abs/2412.11694) (HIT, Peng Cheng Lab) | arXiv | 2024-12-16 | - |
 | [From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding](https://arxiv.org/abs/2409.18938) (TikTok) | arXiv | 2024-09-27 | - |
