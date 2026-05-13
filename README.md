@@ -6,6 +6,9 @@ A curated list of awesome Multimodal studies.
 
 If you have published a high-quality paper or come across one that you think is valuable, feel free to contribute! To submit a paper, please open an issue and include the following information in the specified format:
 
+<details>
+<summary>Submission Format</summary>
+
 ```
 {
     "title": paper title,
@@ -19,7 +22,10 @@ If you have published a high-quality paper or come across one that you think is 
 }
 ```
 
+</details>
+
 - [Awesome-Multimodal-Papers](#awesome-multimodal-papers)
+    - [Foundation Model (Textual and Multimodal)](#foundation-model-textual-and-multimodal)
     - [Visual Understanding](#visual-understanding)
     - [Omni Understanding](#omni-understanding)
     - [Unified Understanding and Generation](#unified-understanding-and-generation)
@@ -36,6 +42,22 @@ If you have published a high-quality paper or come across one that you think is 
     - [Multimodal Dataset](#multimodal-dataset)
     - [Multimodal Survey](#multimodal-survey)
 
+
+### Foundation Model (Textual and Multimodal)
+
+|  Title  |   Date   |   Code   |Supplement|
+|:--------|:--------:|:--------:|:--------:|
+| [DeepSeek-V4] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) |2026-04 | - | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://api-docs.deepseek.com/news/news260424)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/deepseek-ai/deepseek-v4) |
+| [GLM-5] [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763) | 2026-02 | [![Star](https://img.shields.io/github/stars/zai-org/GLM-5.svg?style=social&label=Star)](https://github.com/zai-org/GLM-5) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://z.ai/blog/glm-5)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/zai-org/glm-5) |
+| [Kimi K2.5] [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276) | 2026-02 | [![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2.5.svg?style=social&label=Star)](https://github.com/MoonshotAI/Kimi-K2.5) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://www.kimi.com/blog/kimi-k2-5)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/moonshotai/kimi-k25) |
+| [MiMo-V2-Flash] [MiMo-V2-Flash Technical Report](https://arxiv.org/abs/2601.02780) | 2026-01 | [![Star](https://img.shields.io/github/stars/xiaomimimo/MiMo-V2-Flash.svg?style=social&label=Star)](https://github.com/xiaomimimo/MiMo-V2-Flash) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://mimo.xiaomi.com/blog/mimo-v2-flash)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/XiaomiMiMo/mimo-v2-flash) |
+| [Qwen3-VL] [Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631) | 2025-11 | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen3-VL) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/Qwen/qwen3-vl) |
+| [GLM-4.5] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) | 2025-08 | [![Star](https://img.shields.io/github/stars/zai-org/GLM-4.5.svg?style=social&label=Star)](https://github.com/zai-org/GLM-4.5) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://z.ai/blog/glm-4.5)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/zai-org/glm-45) |
+| [Kimi K2] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534) | 2025-07 | [![Star](https://img.shields.io/github/stars/moonshotai/Kimi-K2.svg?style=social&label=Star)](https://github.com/moonshotai/Kimi-K2) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://moonshotai.github.io/Kimi-K2/)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/moonshotai/kimi-k2) |
+| [InternVL3] [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) | 2025-04 | [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)]<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/OpenGVLab/internvl3-67f7f690be79c2fe9d74fe9d) |
+| [Qwen2.5-VL] [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923) | 2025-01 | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2.5-VL) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://qwenlm.github.io/blog/qwen2.5-vl/)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/Qwen/qwen25-vl) |
+| [InternVL2.5] [Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling](https://arxiv.org/abs/2412.05271) | 2024-12 | [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/OpenGVLab/internvl25) |
+| [Qwen2-VL] [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) | 2024-09 | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen3-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen3-VL) | [![Blog](https://img.shields.io/badge/Technical-Blog-orange.svg)](https://qwenlm.github.io/blog/qwen2-vl/)<br>[![Collections](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Collections-green)](https://huggingface.co/collections/Qwen/qwen2-vl) |
 
 ### Visual Understanding
 
