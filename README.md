@@ -512,6 +512,7 @@ Vibe Coding / GUI / UI Design
 
 |  Title  |   Venue  |   Date   |Supplement|Latest Update|
 |:--------|:--------:|:--------:|:--------:|:-----------:|
+| [A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications](https://openreview.net/pdf?id=eaVoaI7f8v) | TMLR 2026 | 2026-05 | -  | - |
 | [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/abs/2506.13759) | arXiv | 2025-06-16 | [![Star](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey.svg?style=social&label=Star)](https://github.com/LiQiiiii/DLLM-Survey)  | - |
 | [A Survey on Bridging VLMs and Synthetic Data](https://openreview.net/pdf?id=ThjDCZOljE) | OpenReview | 2025-05-16 | ![Star](https://img.shields.io/github/stars/mghiasvand1/Awesome-VLM-Synthetic-Data.svg?style=social&label=Star)<br>[![Github Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data/) | - |
 | [Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities](https://arxiv.org/abs/2505.02567) | arXiv | 2025-05-05 | [![Star](https://img.shields.io/github/stars/AIDC-AI/Awesome-Unified-Multimodal-Models.svg?style=social&label=Star)](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models) | - |
