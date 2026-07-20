@@ -322,6 +322,7 @@ Vibe Coding / GUI / UI Design
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks](https://arxiv.org/abs/2507.18932) | ACMMM 2025 | 2025-07-25 | [![Star](https://img.shields.io/github/stars/Zhanglei1103/MMESGBench.svg?style=social&label=Star)](https://github.com/Zhanglei1103/MMESGBench) | - |
 | [Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning](https://arxiv.org/abs/2406.12742) | arXiv | 2024-06-18 | - | [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Dataset-blue)](https://huggingface.co/datasets/VLLMs/MIRB) |
 | [LOVA3: Learning to Visual Question Answering, Asking and Assessment](https://arxiv.org/abs/2405.14974) | arXiv | 2024-05-23 | [![Star](https://img.shields.io/github/stars/showlab/LOVA3.svg?style=social&label=Star)](https://github.com/showlab/LOVA3) | - |
 | [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI](https://arxiv.org/abs/2404.16006) | arXiv | 2024-04-24 | [![Star](https://img.shields.io/github/stars/OpenGVLab/MMT-Bench.svg?style=social&label=Star)](https://github.com/OpenGVLab/MMT-Bench) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://mmt-bench.github.io/)<br>[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Dataset-blue)](https://huggingface.co/datasets/Kaining/MMT-Bench) |
