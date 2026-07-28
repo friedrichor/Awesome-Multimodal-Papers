@@ -63,6 +63,7 @@ If you have published a high-quality paper or come across one that you think is 
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression](https://arxiv.org/abs/2607.12756) | ACM MM 2026 | 2026-07-14 | [![Star](https://img.shields.io/github/stars/Zyvpeng/VisCo.svg?style=social&label=Star)](https://github.com/Zyvpeng/VisCo) | - |
 | [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://openreview.net/forum?id=4aZTiLH3fm) | ICLR 2026 | 2025-09-18 | [![Star](https://img.shields.io/github/stars/xiaobo-xing/TableDART.svg?style=social&label=Star)](https://github.com/xiaobo-xing/TableDART) | - |
 | [Adaptive MLP Pruning for Large Vision Transformers](https://arxiv.org/abs/2603.08100) (AMP) | arXiv | 2026-03-10 | [![Star](https://img.shields.io/github/stars/visresearch/AMP.svg?style=social&label=Star)](https://github.com/visresearch/AMP) |[![Model](https://img.shields.io/badge/%F0%9F%A4%97%20HF-Model-orange)](https://huggingface.co/visresearch/AMR)|
 | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](https://arxiv.org/abs/2602.20223) | CVPR 2026 | 2026-02-23 | [![Star](https://img.shields.io/github/stars/too-z/MultiModalPFN.svg?style=social&label=Star)](https://github.com/too-z/MultiModalPFN) | - |
