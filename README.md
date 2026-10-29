@@ -383,6 +383,7 @@ Vibe Coding / GUI / UI Design
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/abs/2603.26775) | CVPR 2026 Findings | 2026-03-24 | [![Star](https://img.shields.io/github/stars/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations.svg?style=social&label=Star)](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://eugenelet.github.io/LSD-Project/) |
 | [Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139) | arXiv | 2024-02-27 | - | - |
 | [Tokenize Anything via Prompting](https://arxiv.org/abs/2312.09128) | arXiv | 2023-12-14 | [![Star](https://img.shields.io/github/stars/baaivision/tokenize-anything.svg?style=social&label=Star)](https://github.com/baaivision/tokenize-anything) | - |
 | [LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment](https://arxiv.org/abs/2310.01852) | ICLR 2024 | 2023-10-03 | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LanguageBind.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/LanguageBind) | - |
