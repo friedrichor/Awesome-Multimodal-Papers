@@ -383,6 +383,7 @@ Vibe Coding / GUI / UI Design
 
 |  Title  |   Venue  |   Date   |   Code   |Supplement|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [Hierarchical Pre-Training of Vision Encoders with Large Language Model](https://arxiv.org/abs/2604.00086) (HIVE) | CVPR 2026 Workshop | 2026-03-31 | [![Star](https://img.shields.io/github/stars/eugenelet/HIVE.svg?style=social&label=Star)](https://github.com/eugenelet/HIVE) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://eugenelet.github.io/HIVE-Project/) |
 | [Learning to Select Visual In-Context Demonstrations](https://arxiv.org/abs/2603.26775) | CVPR 2026 Findings | 2026-03-24 | [![Star](https://img.shields.io/github/stars/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations.svg?style=social&label=Star)](https://github.com/eugenelet/Learning-to-Select-Visual-In-Context-Demonstrations) | [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://eugenelet.github.io/LSD-Project/) |
 | [Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139) | arXiv | 2024-02-27 | - | - |
 | [Tokenize Anything via Prompting](https://arxiv.org/abs/2312.09128) | arXiv | 2023-12-14 | [![Star](https://img.shields.io/github/stars/baaivision/tokenize-anything.svg?style=social&label=Star)](https://github.com/baaivision/tokenize-anything) | - |
